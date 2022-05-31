@@ -1,0 +1,69 @@
+    body {
+      margin: 0;
+      padding: 0;
+      background-color:black;
+    }
+    div {
+      background-color:white;
+      margin: 0 auto;
+      width:70%;
+      height:30vh;
+    }
+    p {
+      padding-left:20px;
+    }
+    .p-tahoma {
+      font-family:Tahoma;
+      font-size:24px;
+      font-weight:900;
+    }
+    .p-verdana {
+      font-family: Arial;
+      font-size:25px;
+      font-weight:900;
+    }
+    .p-sales {
+      color:red;
+      font-family: Arial;
+      font-style:italic;
+    }
+    .p-course {
+      font-family: Verdana;
+      font-size: 24px;
+      font-weight:900;
+      padding-bottom:0;
+      margin-bottom:2px;
+    }
+    .p-pro {
+      font-family: Verdana;
+      font-size:15px;
+      margin-top:0;
+      color:rgb(96,96,96);
+      line-height:20px;
+    }
+    .p-become {
+      font-weight:400;
+      font-stretch:14;
+    }
+    .verdana-button {
+      border-style:none;
+      border-radius:2.5px;
+      margin-left:20px;
+      padding:4px 7.5px;
+      background-color: green;
+      color:white;
+    }
+    .p-shopping {
+      font-size:23px;
+      font-weight:800;
+    }
+    .p-apple {
+      font-size:13px;
+    }
+    .p-learn {
+      font-size:14px;
+      color:blue;
+    }
+    .5d {
+     text-align: center;
+    }
